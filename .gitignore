@@ -106,7 +106,7 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-_config*.yml*
+# _config*.yml* （手动注释掉）
 yarn.lock
 
 # Intellij Idea config file

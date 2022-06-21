@@ -1,0 +1,38 @@
+# 设置版本
+version: 4.0.0
+
+# 主题
+variant: default
+
+# Logo
+logo:
+  text: Freedom
+
+# 导航栏
+navbar:
+    # 导航栏菜单项
+    menu:
+        Home: /
+        Archives: /archives
+        Categories: /categories
+        Tags: /tags
+        About: /about
+    # 导航栏右侧的链接
+    links:
+        GitHub: 'https://github.com'
+        Download on GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+
+# Footer
+footer:
+    links:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: 'https://creativecommons.org/'
+        Attribution 4.0 International:
+            icon: fab fa-creative-commons-by
+            url: 'https://creativecommons.org/licenses/by/4.0/'
+        Download on GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/ppoffice/hexo-theme-icarus'
